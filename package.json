@@ -1,0 +1,38 @@
+{
+  "name": "ng2-account-kit",
+  "version": "1.0.0",
+  "description": "Facebook Account Kit TypeScript SDK for Angular2",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "ngc",
+    "test": "echo \"No tests for now :)\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael-iop/ng2-account-kit.git"
+  },
+  "keywords": [
+    "facebook",
+    "account kit",
+    "angular2",
+    "sdk"
+  ],
+  "author": "Rafael Viero Iop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafael-iop/ng2-account-kit/issues"
+  },
+  "homepage": "https://github.com/rafael-iop/ng2-account-kit",
+  "devDependencies": {
+    "@angular/compiler": "^2.1.1",
+    "@angular/compiler-cli": "^2.1.1",
+    "@angular/core": "^2.1.1",
+    "rxjs": "5.0.0-beta.12",
+    "typescript": "^2.0.3",
+    "zone.js": "0.6.25"
+  }
+}
