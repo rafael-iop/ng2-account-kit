@@ -40,7 +40,7 @@ export interface InitOptions {
     /**
      * Your application ID. If you don't have one find it in the App dashboard or go there to create a new app. Defaults to null.
      */
-    appId?: string;
+    appId: string;
 
     /**
      * Determines which version of Account Kit to use. This is a required parameter.
