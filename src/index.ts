@@ -1,5 +1,5 @@
 export {
-  AccountKitService,
+  AccountKitWrapper as AccountKit,
   InitOptions,
   LoginParams,
   AuthResponse,
