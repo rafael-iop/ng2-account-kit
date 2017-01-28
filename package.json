@@ -1,6 +1,6 @@
 {
   "name": "ng2-account-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Facebook Account Kit TypeScript SDK for Angular2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
