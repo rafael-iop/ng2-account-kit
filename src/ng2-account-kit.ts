@@ -72,7 +72,7 @@ export interface LoginParams  {
   /**
    * For use with the PHONE login method. A string which should be in the form "+<number>", e.g. "+91".
    */
-  countryCode: string;
+  countryCode?: string;
 
   /**
    * For use with the PHONE login method. A string containing 1 to 20 numeric characters.
